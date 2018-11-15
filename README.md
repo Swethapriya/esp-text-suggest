@@ -1,5 +1,7 @@
 # esp-text-suggest
-chrome extension for text suggestions
+chrome extension for text suggestions v1
+
+What this does: Changes the "Type message here" in webwhatsapp to "esp text suggest"
 
 How to install:
 
